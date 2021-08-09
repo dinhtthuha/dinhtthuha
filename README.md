@@ -1,5 +1,7 @@
 ### Hi there, I'm Dinh Thi Thu Ha 👋
-I'm taking courses and working on projects @ DataCamp 
+No background in information technology but linguistics and curriculum development.
+
+I'm taking courses and working on projects @ DataCamp, step by step transition towards data science.
 
 <!-- At the age of 27, I'm just getting warmed up in data science with the goal of enabling a more creative mindset in problem solving.
 My previous experience is limited to social sciences such as linguistics, journalism, and curriculum development. And now I'm starting to digitalize myself by delving into the field of data science. I begin by taking courses and working on guided projects on DataCamp. 
